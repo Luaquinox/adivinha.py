@@ -1,1 +1,1 @@
-# adivinha.py
+# app.py.
